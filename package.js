@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'ccorcos:subs-cache',
+  name: 'elvishjerricco:subs-cache',
   summary: 'A package for caching Meteor subscriptions.',
   version: '0.1.0',
-  git: 'https://github.com/ccorcos/meteor-subs-cache'
+  git: 'https://github.com/ElvishJerricco/meteor-subs-cache'
 });
 
 Package.onUse(function(api) {
