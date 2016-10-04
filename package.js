@@ -1,7 +1,7 @@
 Package.describe({
   name: 'elvishjerricco:subs-cache',
   summary: 'A package for caching Meteor subscriptions.',
-  version: '0.1.0',
+  version: '0.1.1',
   git: 'https://github.com/ElvishJerricco/meteor-subs-cache'
 });
 
